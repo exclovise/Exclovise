@@ -14,7 +14,7 @@
 - 💡 Creator and owner of **ExcloMC** — a multiplayer experience for browser & Java players  
 - 🌐 Hosting projects on GitHub Pages, Railway, and custom web panels  
 - 🧰 Skilled in **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, and full-stack development  
-- 🎯 Always learning — cloud infrastructure, server deployment, and scalable systems
+- 🎯 learning — cloud infrastructure, server deployment, and scalable systems
 
 ---
 
