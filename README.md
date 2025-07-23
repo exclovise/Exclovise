@@ -52,8 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=exclovise&show_icons=true&theme=tokyonight&hide_title=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclovise&layout=compact&theme=tokyonight&langs_count=8&hide=java" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exclovise&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
+
 
 ---
 
