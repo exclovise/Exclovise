@@ -50,7 +50,7 @@ Full-stack is kinda my thing.
 [![YouTube](https://img.shields.io/badge/YouTube-@exclovisemc-red?style=flat&logo=youtube)](https://www.youtube.com/@exclovisemc)  
 [![Discord](https://img.shields.io/badge/Discord-exclovise-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourinvite)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Exclovise-blue?style=flat&logo=twitter)](https://twitter.com/Exclovise)  
-[![Email](https://img.shields.io/badge/Email-contact@exclovise.com-red?style=flat&logo=gmail&logoColor=white)](mailto:contact@exclovise.com)
+[![Email](https://img.shields.io/badge/Email-contact@exclovise.com-red?style=flat&logo=gmail&logoColor=white)](mailto:exclovise@gmail.com)
 
 ---
 
